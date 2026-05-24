@@ -1,4 +1,4 @@
-Hi, I'm Ashik Muhammad Asharaf 👋
+Hi, I'm Ashik M Asharaf 👋
 Data Analyst | MSc AI & Data Science (Distinction) | University of Hull, UK
 I believe the most dangerous number in any dashboard is the one nobody questioned.
 That belief shapes everything I build, from how I construct datasets to how I communicate insights.
